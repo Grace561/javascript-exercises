@@ -5,7 +5,7 @@ const removeFromArray = function(arr, ...args) {
         newArray.push(item);
        } 
     });
-    return newArray;
+    return n
 };
 
 // Do not edit below this line
