@@ -1,0 +1,6 @@
+const sumAll = function(n) {
+
+};
+
+// Do not edit below this line
+module.exports = sumAll;

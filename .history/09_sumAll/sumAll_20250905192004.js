@@ -14,7 +14,9 @@ const sumAll = function(min , max) {
     for (let i = min; i <= max; i++){
     sum += i;
     }
-    return sum;
+    r
+
 };
+
 // Do not edit below this line
 module.exports = sumAll;
