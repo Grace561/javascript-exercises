@@ -17,9 +17,9 @@ describe('convertToFahrenheit', () => {
     expect(convertToFahrenheit(0)).toEqual(32);
   });
   test('rounds to 1 decimal', () => {
-    expect(convertToFahrenheit(73.2)).toEqual(163.8);
+    expect(convertToFahrenheit(73.2)).toEqual(163.8z);
   });
-  test('works with negatives', () => {
+  test'works with negatives', () => {
     expect(convertToFahrenheit(-10)).toEqual(14);
   });
 });
