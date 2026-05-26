@@ -1,0 +1,7 @@
+const getTheTitles = function(Book) {
+    return b
+
+};
+
+// Do not edit below this line
+module.exports = getTheTitles;
