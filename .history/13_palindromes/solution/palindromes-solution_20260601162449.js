@@ -1,0 +1,2 @@
+Z
+module.exports = palindromes;

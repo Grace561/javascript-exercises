@@ -26,3 +26,4 @@ describe('palindromes', () => {
     expect(palindromes('r3ace3car')).toBe(false);
   });
 });
+c

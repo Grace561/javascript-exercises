@@ -8,6 +8,8 @@ const palindromes = function (string) {
 
   // Create a new reversed string for comparison
   const reversedString = cleanedString.split('').reverse().join('');
+
+  // Return the outcome of the comparison which will either be true or false
   return cleanedString === reversedString;
 };
 

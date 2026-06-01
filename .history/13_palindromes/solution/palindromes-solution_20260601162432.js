@@ -1,0 +1,2 @@
+CV
+module.exports = palindromes;
